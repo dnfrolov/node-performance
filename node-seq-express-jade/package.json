@@ -1,0 +1,20 @@
+{
+  "name": "node-only",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "mysql": "^2.6.2",
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "sequelize": "^2.0.6"
+  }
+}
